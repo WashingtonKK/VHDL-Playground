@@ -1,0 +1,9 @@
+{
+	"version": "1.0",
+	"modules": {
+		"Lighting_LED1": {
+			"proto_instances": {
+			}
+		}
+	}
+}
